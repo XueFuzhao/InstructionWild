@@ -10,7 +10,7 @@ Note: This is an ongoing project. We are still collecting and improving our data
 
 ## Data Release
 
-Our dataset use the same format as [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) for fast and easy usage.
+Our dataset use the same format as [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) for fast and easy usage. Our instructions have no input field.
 
 ## Data Collection
 
@@ -51,7 +51,7 @@ It is difficult to evaluate Chatbot. We human-evaluate several examples under di
 
 ## Detailed Comparison
 
-See [here](./compare.md) for detailed comparison.
+See [**HERE**](./compare.md) for detailed comparison.
 
 ## TODO
 
