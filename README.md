@@ -1,6 +1,22 @@
-# InstructionWild
+# Instruction in the Wild: A User-based Instruction Dataset
 
-### Authors
+
+## Overview
+
+TODO(Fuzhao)
+
+## Data Release
+
+Our dataset use the same format as [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) for fast and easy usage.
+TODO(Zangwei)
+
+
+## Data Collection
+
+We scrapt over 700 noisy instructions from Twitter and filter out noisy insturctions. We then pick clean insturctions to ensure the high quality
+TODO(Zangwei)
+
+## Authors
 
 This dataset is collected and cleaned by the following authors:
 
@@ -9,7 +25,7 @@ This dataset is collected and cleaned by the following authors:
 
 Both authors are advised by [Yang You](https://www.comp.nus.edu.sg/~youy/). We also acknowledge the valuable suggestions from [Aixin Sun](https://personal.ntu.edu.sg/axsun/)
 
-### Citation
+## Citation
 
 Please cite the repo if you use the data or code in this repo.
 
