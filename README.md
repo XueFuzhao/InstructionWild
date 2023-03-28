@@ -51,7 +51,7 @@ It is difficult to evaluate Chatbot. We human-evaluate several examples under di
 
 ## Detailed Comparison
 
-See [**HERE**](./compare.md) for detailed comparison.
+See [**HERE**](./comparison.md) for detailed comparison.
 
 ## TODO
 
