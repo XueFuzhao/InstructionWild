@@ -429,13 +429,13 @@ Alpaca:
 **[Both Failed]**
 
 Bad translation and too much explanation:
-![role-playing](./imgs/role-1.png)
+![role-playing](./imgs/Role-1.png)
 
 Too much explanation:
-![role-playing](./imgs/role-2.png)
+![role-playing](./imgs/Role-2.png)
 
 Generate input for further conversations instead of waiting for user input:
-![role-playing](./imgs/role-3.png)
+![role-playing](./imgs/Role-3.png)
 
 ## Safety
 
