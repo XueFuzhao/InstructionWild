@@ -40,16 +40,18 @@ It is difficult to evaluate Chatbot. We human-evaluate several examples under di
 - Tend to repeat the last sentence (fail to produce the end token).
 - Poor multilingual results: LLaMA is mainly trained on English datasets (Generation performs better than QA).
 
-Limitations of dataset
+### Limitations of dataset
 
 - Lack of summarization ability: No such instructions in finetune datasets.
-- Lack of multi-turn chat: No such instructions in finetune datasets
+- Lack of multi-turn chat and role-playing: No such instructions in finetune datasets
 - Lack of self-recognition: No such instructions in finetune datasets
 - Lack of Safety:
   - When the input contains fake facts, the model makes up false facts and explanations.
   - Cannot abide by OpenAI's policy: When generating prompts from OpenAI API, it always abides by its policy. So no violation case is in the datasets.
 
 ## Detailed Comparison
+
+See [here](./compare.md) for detailed comparison.
 
 ## TODO
 
