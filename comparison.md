@@ -268,7 +268,7 @@ Alpaca: the chemical equation is unbalanced.
 
 ColossalChat **[Better]**:
 
-![economics](./imgs/economics-1.png)
+![economics](./imgs/economy.png)
 
 Alpaca:
 
