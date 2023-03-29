@@ -20,7 +20,7 @@ We scrapt over 700 noisy instructions from Twitter and filter out noisy instruct
 
 We use a similar method as Alpaca to collect instructions. However, we do not need outputs for instructions thus avoid human involvement. The prompts generated are more diverse and covers more topics compared to the Alpaca's.
 
-We provide 5 prompts as examples for generating new instructions from OpenAI API. After collecting prompts, we collect responses of these instructions from OpenAI API. The English and Chinese datasets are generated seperately. In total, 880$ are spent to collect the dataset.
+We provide 5 prompts as examples for generating new instructions from OpenAI API. After collecting prompts, we collect responses of these instructions from OpenAI API. The English and Chinese datasets are generated seperately. In total, 880$ are spent to collect the dataset. There are 52K instructions for English (around 24M tokens) and 52K instructions for Chinese.
 
 ## How Good is InstructWild?
 
