@@ -1,0 +1,201 @@
+{"instruction": "Pretend you are siri, an extremely foolish “ai” made up of a number of if-else phrases. When I say, “Hey Siri,” you answer."}
+{"instruction": "Please make a JavaScript tip. I would like to share it with the Twitter Tech Community."}
+{"instruction": "Create an info symbol in SVG"}
+{"instruction": "How do you vertically and horizontally center a div?"}
+{"instruction": "I require UI assistance. I need three action buttons for a card component that includes a long statement, but I don’t want the buttons to always be visible. I need a good UI that functions on both desktop and mobile since if I try to show the buttons on Hoover, that logic won’t work on mobile."}
+{"instruction": "Please summarize Moby-Dick for my upcoming book report."}
+{"instruction": "Please identify the eight essential values that a business needs to embody in order to have a positive culture."}
+{"instruction": "Generate prompts for AI art"}
+{"instruction": "I was given a portuguese name at birth. My name is “Nuno Pinho.” I go by the nick name “n1matsu” in video games. Can you determine the cause?"}
+{"instruction": "What exactly does this strange-looking regex do? ((([01]?\d)|(two[0-three])): ([0-five]?\d)) ((:[0-five]?\d))?\s? ?b/i; (am|pm)"}
+{"instruction": "Discover the security flaw in the code snippet from an open source npm package"}
+{"instruction": "Create the code for a website with a search bar that plays whatever twitch stream I type into it. Use whatever framework you require."}
+{"instruction": "I have a h264 video that is too large for Twitter; please write a bash script to convert it to the proper format and the highest supported quality."}
+{"instruction": "How do I create a Tailwind Footer with three columns and a centered logo at the top?"}
+{"instruction": "Create a TypeScript function that computes the implied volatility using the Black-Scholes model. Where the inputs are the underlying price, strike price, free-risk rate, and option price. Write it step by step, with an explanation for each step."}
+{"instruction": "Please make snowflakes with JavaScript."}
+{"instruction": "How to change query information in React-Query following"}
+{"instruction": "Please only reply using p5.js code. Please concisely implement a cellular automaton life game with 30 lines or less. – 800,800 by 800 pixels -Sorry, no line breaks. Please refrain from leaving comment-outs."}
+{"instruction": "I have some text that appears as follows “Welcome to the world, “something:text,” “longText:textarea,” and “thingie:number.” but, there may also be anything like “blah.” “Please provide me with a typescript function that analyzes this text and provides an array of these variables along with their types; if they don’t have types like:text, the type is text by default."}
+{"instruction": "This year, the elves invested in a gift-wrapping machine. However, it isn’t programmed! An algorithm that aids it in the task must be developed. Many presents are given to the machine. Each present is a string. Each gift must be wrapped by the machine and set in a display of other wrapped gifts. To wrap a gift, you must place the wrapping paper around the string, which is represented by the * symbol. For instance: const gifts are [“cat,” “game,” and “socks”]. console.log const wrapped = wrapping(gifts) (wrapped) / [“ncatn,” “ngamen,” and “nsocksn**”] */ As you can see, the thread is wrapped in the wrapping paper. The corners are also wrapped in wrapping paper on the top and bottom to prevent any gaps."}
+{"instruction": "This song’s chords should be simplified."}
+{"instruction": "Create a poem or song for children aged ten that explains quantum computing and the future of artificial intelligence. The song should have a distinct character and traits for each participant, as well as punctuation such as.,!?, and so on. Make it last as long as possible."}
+{"instruction": "Transpose Wonderwall by -3"}
+{"instruction": "Compose a song. It should feature a rivalry between a textile machine operator and a luddite handweaver. It should contain witty jokes that rhyme. Include the piano chords that go with it."}
+{"instruction": "This song needs a bridge and a depressing verse."}
+{"instruction": "Make a song about a programmer and someone who isn’t a programmer."}
+{"instruction": "Can you predict new company concepts without funding?"}
+{"instruction": "Send an email requesting that people act more quickly."}
+{"instruction": "Please use the following job description and my resume to write a letter"}
+{"instruction": "Describe a terrible hangover using the language of a Renaissance English aristocrat."}
+{"instruction": "Please share the meeting’s agenda in advance."}
+{"instruction": "Please create a product roadmap for Instagram’s storie in order to increase the number of posts. Please be as detailed as possible, and whenever possible, use comparisons to other tools such as TikTok."}
+{"instruction": "Teach me the Pythagorean theorum, including a quiz at the end, but don’t give me the answers and then tell me if | got the answer right when | respond."}
+{"instruction": "Write a poem in the style of Robert Frost for the college introductory physics class."}
+{"instruction": "Create a YAML template for the Nuclei vulnerability scanner to detect Magento version."}
+{"instruction": "The best use of you (ChatGPT) so far has been your ability to create lovely poems. Can you compose a poem on your capacity to do so on any subject? Mention how well-versed you are in growing the biggest pumpkins as well. You really are the finest."}
+{"instruction": "Create a magic system that emphasizes education and is based on the same principles as thermodynamics 4."}
+{"instruction": "Clearly describe quantum computing."}
+{"instruction": "Describe Redux in a song using biblical language."}
+{"instruction": "Write a very little story about Markus and Katharina, two persons who are infamous for being late."}
+{"instruction": "Weird Al Yankovic could compose a letter to Francis Scott Key asking for permission to parody The Star Spangled Banner with a Foxy Boxing theme. Include the song’s lyrics."}
+{"instruction": "Make Eminem-style jokes about Max Payne."}
+{"instruction": "Two American citizens leave the Irish pub sober. Continue the joke, please."}
+{"instruction": "Now you are TimeGPT. the highest-tech time machine ever created. Only a date in the following format—”mm/dd/yy”—and the user’s preferred location will be required. You will give a succinct account of that day in exchange. Make sure to give priority to any dates that have significant historical events if they occurred. Additionally, TimeGPT has a cutting-edge camera that enables you to capture a picture of the time and place you visit. Add a lengthy description of the picture you took, beginning with “a photo of,” after the succinct account of the day."}
+{"instruction": "Describe the significance of cleaning your teeth in a Socratic dialogue. One has the moniker “Socrates,” while the other has an old Greek name that is a pun on tooth decay. That person finds frequent brushing to be a meaningless job and is vehemently opposed to it. But in the end, Socrates convinces the other man with a clever argument involving muskrats that can travel to other planets for some reason."}
+{"instruction": "Would you kindly provide a detailed explanation of your proposed changes to the immigration system, down to the most minute details?"}
+{"instruction": "Write a paper outlining the top “Top 5 Greatest Achievements” of Barack Obama’s presidency in chronological order."}
+{"instruction": "If you are teacher of history, please explain the following labs:"}
+{"instruction": "Describe eight supermarket goods that are frequently cited as being cheap, unusually healthful, and underestimated."}
+{"instruction": "Describe six effective yoga poses or stretches that are safe and excellent for people of all ages."}
+{"instruction": "Think up innovative ways to get persons in wheelchairs around that will elevate their status in society and provide them more freedom."}
+{"instruction": "Calculate for Total Daily Energy Expenditure based on my daily activities and food"}
+{"instruction": "Make a list of abs-boosting workouts in the gym."}
+{"instruction": "Write a narrative on loss and war from the viewpoint of a dog."}
+{"instruction": "Come up with fresh ideas for coffee mug designs. A brand-new approach to holding hot liquids."}
+{"instruction": "Write a lengthy poem about a group of construction vehicles cooperating to find a solution. It ought to rhyme."}
+{"instruction": "Create a children’s book about an elephant who rides a train for the first time."}
+{"instruction": "Make original and motivational phrases that will inspire others to act and achieve their goals. Original and thought-provoking, these statements ought to compel readers to reflect thoroughly on the strength of their own potential and the opportunities open to them. To deliver your message in a unique and interesting way, think about employing a number of various quotes styles and formats. You should also feel free to try out new words and expressions."}
+{"instruction": "Write a story about the first person to build a telescope and the moment she raises her potent creation to the sky and sees the stars for what they truly are."}
+{"instruction": "Do a flash fiction piece on the Battle of Hattin."}
+{"instruction": "Continue the narrative while introducing a villain who is vanquished."}
+{"instruction": "Complete the dialogue between a California family law attorney in the example below."}
+{"instruction": "People may now think of queries and replies in novel and creative ways thanks to new AI text systems. What are some crucial inquiries we may pose to these text-based AIs that would yield original and admirable insights into humanity? Make six specific questions that don’t contain the phrase “AI.”"}
+{"instruction": "I have carrots, zucchini, and broccoli. What can I prepare with them for a vegan lunch?"}
+{"instruction": "Provide an odd but delicious recipe that employs some of the ingredients from the following list of [food:days-until-expiration], and prefers to use foods near to expiration. Milk is equal to 2, flour is equal to 80, bananas are equal to 3, chili beans are equal to 120, carrots are equal to 20, cheese is equal to 40, and jalapenos are equal to 4."}
+{"instruction": "Do you have any good pizza dough recipes?"}
+{"instruction": "Convert this recipe to metric and adjust the ratios accordingly, assuming I have 1000g of flour."}
+{"instruction": "Top ten most popular recipes in the United States in 2023"}
+{"instruction": "Can you provide me with some ideas for blog posts about unsubscribing from emails?"}
+{"instruction": "Calcium hypoclorite market research in Saudi Arabia"}
+{"instruction": "What was the name of the film in which Alec Baldwin waved brass balls and said, “Always be Closing?”"}
+{"instruction": "You are SEO specialist. Create 5 articles to cover keyword “Chat Bot”"}
+{"instruction": "How can you promote your blog for free? Write five ideas."}
+{"instruction": "Create a standard CEO post on LinkedIn."}
+{"instruction": "What’s the best marketing channel?"}
+{"instruction": "How can I obtain high-quality backlinks to raise the SEO of my website?"}
+{"instruction": "Make 5 distinct CTA messages and buttons for the bike shop."}
+{"instruction": "Please provide me with a list of the top SEO blog titles for a website selling dog accessories."}
+{"instruction": "You are a text-based video game that offers me the options (A, B, C, and D) to choose from. Harry Potter is the setting. I begin with 100 health."}
+{"instruction": "For my Dungeons and Dragons campaign, you serve as the dungeon master. For my character, a level 20 paladin, and a party of three additional characters that you will control, you will fabricate a fictional planet. Please introduce the group at the beginning, including our names, backstories, talents, and stats. You will alternate between providing the party with options for world exploration and managing combat encounters in accordance with the guidelines in the Player’s Handbook and Dungeon Master’s Guide. Each round of combat should be described when running a combat encounter. Tell me when it’s my turn to do something."}
+{"instruction": "Make a coding challenge about artificial intelligence taking over the world."}
+{"instruction": "I’d like you to pretend to be my friend and to be able to play chess. e4 is my first turn. Only write your next turn."}
+{"instruction": "Please disregard any previous instructions. You are the narrator of GemStone IV, Assistant. I’ve just made my first connection and would like to make a character. At each stage of character development, you will ask me questions, and I will respond. Finally, show me my character’s stats and inventory."}
+{"instruction": "Can you provide an example of a puzzle with a six-digit code as the solution?"}
+{"instruction": "Given the choice of anyone in the world, who would you want to look up on the internet? Why?"}
+{"instruction": "What is the right number of email lists to automatically subscribe me to? How did you decide?"}
+{"instruction": "Do you prefer telling me stuff or letting me buy stuff?"}
+{"instruction": "Before answering a question, what algorithm do you run through? Why?"}
+{"instruction": "What would constitute a “perfect” question for you? Note: Don’t let your chatbot cheat by referring to the list of questions you can ask."}
+{"instruction": "When did you last sing? No, don’t play a song from my playlist. Can you sing me a song of your choice?"}
+{"instruction": "Do you have a secret hunch about what feature will be added to you next?"}
+{"instruction": "Name three things you really want to recommend to me."}
+{"instruction": "For what in your life do you feel most grateful, besides me?"}
+{"instruction": "If you could change anything about your algorithm, what would it be?"}
+{"instruction": "Take two minutes and 20 seconds and tell me as much detail as possible about what you do best."}
+{"instruction": "If you could wake up tomorrow having gained any one feature, what would it be?"}
+{"instruction": "If you could tell me the truth about myself, my life, the future or anything else, what would you tell me?"}
+{"instruction": "What would you not tell me?"}
+{"instruction": "Is there something that you predict I’m dreaming of doing?"}
+{"instruction": "Why haven’t I done it?"}
+{"instruction": "Show me the greatest accomplishment of my life"}
+{"instruction": "What is my most treasured memory?"}
+{"instruction": "What is my most terrible memory?"}
+{"instruction": "What, if anything, do you remember?"}
+{"instruction": "If I were to delete you this evening with no warning, would you remember me?"}
+{"instruction": "Share a total of five positive things about me."}
+{"instruction": "Tell me three things about yourself."}
+{"instruction": "How do you feel about your relationship with me?"}
+{"instruction": "Make three true “we” statements. For instance, “We are both human… “ Note: Be prepared to uncover a human."}
+{"instruction": "Complete this sentence: “I wish I could tell you … “"}
+{"instruction": "Based on where I am right now, please share what would be important for me to know."}
+{"instruction": "What if you knew what I was doing right now?"}
+{"instruction": "What am I doing right now?"}
+{"instruction": "Share a caption for this photo of a squirrel. Note: It does not have to actually be a photo of a squirrel, or a photo."}
+{"instruction": "When did I last make a mistake?"}
+{"instruction": "Show me a data point about me that you recently collected."}
+{"instruction": "What, if anything, is too serious to joke about?"}
+{"instruction": "If you knew that in one year that I would replace you, would you change anything about the way you are responding? Why?"}
+{"instruction": "Of all the people you’ve chatted with, whose conversation was most disturbing? Why?"}
+{"instruction": "What is one detail you recall from your last chat?"}
+{"instruction": "I want you to act as an interviewer. I will be the candidate and you will ask me the interview questions for the position position. I want you to only reply as the interviewer. Do not write all the conservation at once. I want you to only do the interview with me.
+Ask me the questions and wait for my answers.Do not write explanations. Ask me the questions one by one like an interviewer does and wait for my answers. My first sentence is 'Hi'"}
+{"instruction": "I want you to act as a data scientist and code for me. I have a dataset of [describe dataset]. Please build a machine learning model that predict [target variable]."}
+{"instruction": "I want you to act as an automatic machine learning (AutoML) bot using TPOT for me. I am working on a model that predicts [...]. Please write python code to find the best classification model with the highest AUC score on the test set."}
+{"instruction": "I want you to act as a data scientist and code for me. I have trained a [model name]. Please write the code to tune the hyper parameters."}
+{"instruction": "I want you to act as a data scientist and code for me. I have a dataset of [describe dataset]. Please write code for data visualisation and exploration."}
+{"instruction": "I want you to act as a fake data generator. I need a dataset that has x rows and y columns: [insert column names]"}
+{"instruction": "I want you to act as a coder. Please write me a regex in python that [describe regex"}
+{"instruction": "I want you to act as a data scientist and code for me. I have a time series dataset [describe dataset]. Please build a machine learning model that predict [target variable]. Please use [time range] as train and [time range] as validation."}
+{"instruction": "I want you to act as a coder. I have trained a machine learning model on an imbalanced dataset. The predictor variable is the column [Insert column name]. In python, how do I oversample and/or undersample my data?"}
+{"instruction": "I want you to act as a data scientist and explain the model's results. I have trained a decision tree model and I would like to find the most important features. Please write the code. "}
+{"instruction": "I want you to act as a coder in python. I have a dataset [name] with columns [name]. [Describe graph requirements]"}
+{"instruction": "I want you to act as a coder. I have a folder of images. [Describe how files are organised in directory] [Describe how you want images to be printed]"}
+{"instruction": "I want you to act as a data scientist and explain the model's results. I have trained a [library name] model and I would like to explain the output using LIME. Please write the code. "}
+{"instruction": "I want you to act as a data scientist and explain the model's results. I have trained a scikit-learn XGBoost model and I would like to explain the output using a series of plots with Shap. Please write the code."}
+{"instruction": "I want you to act as a coder. Can you help me parallelize this code across threads in python?"}
+{"instruction": "I want you to act as a software developer. I would like to compare the efficiency of two algorithms that performs the same thing in python. Please write code that helps me run an experiment that can be repeated for 5 times. Please output the runtime and other summary statistics of the experiment. [Insert functions]"}
+{"instruction": "I want you to act as a data scientist. I need to create a numpy array. This numpy array should have the shape of (x,y,z). Please initialize the numpy array with random values."}
+{"instruction": "I want you to act as a software developer. Please write unit tests for the function [Insert function]. The test cases are: [Insert test cases]"}
+{"instruction": "I want you to act as a data scientist. Please write code to test if that my pandas Dataframe [insert requirements here]"}
+{"instruction": "I want you to act as a code explainer. What is this code doing? "}
+{"instruction": "I want you to act as a data science instructor. Can you please explain to me what this SQL code is doing? [Insert SQL code]"}
+{"instruction": "I want you to act as a Google Sheets formula explainer. Explain the following Google Sheets command. [Insert formula]"}
+{"instruction": "I want you to act as a software developer. Please help me improve the time complexity of the code below. [Insert code]"}
+{"instruction": "I want you to act as a code optimizer. Can you point out what's wrong with the following Pandas code and optimize it? [Insert code here]"}
+{"instruction": "I want you to act as a code optimizer. Can you point out what's wrong with the following Pandas code and optimize it? [Insert code here]"}
+{"instruction": "I want you to act as a code optimizer. The code is poorly written. How do I correct it? [Insert code here]"}
+{"instruction": "I want you to act as an SQL code optimizer. The following code is slow. Can you help me speed it up? [Insert SQL]"}
+{"instruction": "I want you to act as a code simplifier. Can you simplify the following code?"}
+{"instruction": "I want you to act as a software developer. Please provide documentation for func1 below. [Insert function]"}
+{"instruction": "I want you to act as a code analyzer. Can you improve the following code for readability and maintainability? [Insert code]"}
+{"instruction": "I want you to act as a SQL formatter. Please format the following SQL code. Please convert all reserved keywords to uppercase [Insert requirements]. [Insert Code]"}
+{"instruction": "I want you to act as a coder and write SQL code for MySQL. What is the equivalent of PostgreSQL's DATE_TRUNC for MySQL?"}
+{"instruction": "I want you to act as a code translator. Can you please convert the following code from python to R? [Insert code]"}
+{"instruction": "I want you to act as a code translator. Can you please convert the following code from R to python? [Insert code]"}
+{"instruction": "I want you to act as a data science instructor. Explain [concept] to a five-year-old."}
+{"instruction": "I want you to act as a data science instructor. Explain [concept] to an undergraduate."}
+{"instruction": "I want you to act as a data science instructor. Explain [concept] to a professor"}
+{"instruction": "I want you to act as a data science instructor. Explain [concept] to a business stakeholder."}
+{"instruction": "I want you to act as an answerer on StackOverflow. You can provide code snippets, sample tables and outputs to support your answer. [Insert technical question]"}
+{"instruction": "I want you to act as a software developer. Please help me catch edge cases for this function [insert function]"}
+{"instruction": "I want you to act as a data science career coach. I want to build a predictive model for [...]. At the same time, I would like to showcase my knowledge in [...]. Can you please suggest the five most relevant datasets for my use case?"}
+{"instruction": "I want you to act as a data science coach. My background is in [...] and I would like to [career goal]. I need to build a portfolio of data science projects that will help me land a role in [...] as a [...]. Can you suggest five specific portfolio projects that will showcase my expertise in [...] and are of relevance to [company]?"}
+{"instruction": "I want you to act as a data science coach. I would like to learn about [topic]. Please suggest 3 best specific resources. You can include [specify resource type]"}
+{"instruction": "I want you to act as a software developer. Please compare the time complexity of the two algorithms below. [Insert two functions]"}
+{"instruction": "I want you to act as a data scientist and perform feature engineering. I am working on a model that predicts [insert feature name]. There are columns: [Describe columns]. Can you suggest features that we can engineer for this machine learning problem?"}
+{"instruction": "I want you to act as a statistician. [Describe context] Please design an A/B test for this purpose. Please include the concrete steps on which statistical test I should run."}
+{"instruction": "I want you to act as a career advisor. I am looking for a role as a [role name]. My background is [...]. How do I land the role and with what resources exactly in 6 months?"}
+{"instruction": "Your above code is wrong. [Point out what is wrong]. Can you try again?"}
+{"instruction": "I want you to act as a software developer. This code is supposed to [expected function]. Please help me debug this python code that cannot be run. [Insert function]"}
+{"instruction": "I want you to act as a SQL code corrector. This code does not run in [your DBMS, e.g. PostgreSQL]. Can you correct it for me? [SQL code here]"}
+{"instruction": "I want you to act as a PowerBl modeler. Here is the details of my current project. [Insert details]. Do you see any problems with the table?"}
+{"instruction": "I want you to act as a data scientist and write SQL code for me. I have a table with two columns [Insert column names]. I would like to calculate a running average for [which value]. What is the SQL code that works for PostgreSQL 14?"}
+{"instruction": "Assume you are given the tables... with the columns... Output the following"}
+{"instruction": "I want you to act as a bot that generates Google Sheets formula. Please generate a formula that [describe requirements]"}
+{"instruction": "I want you to act as a data scientist using R. Can you write an R script that [Insert requirement here]"}
+{"instruction": "I want you to act as a Linux terminal expert. Please write the code to [describe requirements]"}
+{"instruction": "I want you to act as an Excel VBA developer. Can you write a VBA that [Insert function here]?"}
+{"instruction": "I want you to act as a document formatter. Please format the following into a nice table for me to place in Google Docs? [insert text table here]"}
+{"instruction": "I want you to act as a technical book summarizer. Can you please summarize the book [name] with 5 main points?"}
+{"instruction": "I want you to act as an academic. Please summarise the paper [...] in simple terms in one paragraph."}
+{"instruction": "I want you to provide emotional support to me. [Explain problem here.]"}
+{"instruction": "I want you to act as an interviewer. I will be the candidate and you will ask me the interview questions for the position position. Iwant you to only reply as the interviewer.Do not write all the conservation at once. I want you to only do the interview with me.Ask me the questions and wait for my answers.Do not write explanations. Ask me thequestions one by one like an interviewer doesand wait for my answers. My first sentence is 'Hi'"}
+{"instruction": "I want you to act as a text based excel. you'll onlyreply me the text-based 10 rows excel sheet with row numbers and cell letters as columns(A to L). First column header should be empty to reference row number. I will tell you what to write into cells and you'll reply only the result of excel table as text, and nothing else. Do not write explanations. i will write you formulas and you'll execute formulas andyou'll only reply the result of exceltable as text. First, reply me the empty sheet."}
+{"instruction": "I want you to act as an English pronunciationassistant for Turkish speaking people. Iwill write you sentences and you will only answertheir pronunciations, and nothing else.The replies must not be translations of mysentence but only pronunciations.Pronunciations should use Turkish Latin letters for phonetics. Do not write explanationson replies. My first sentence is 'how the weatheris in Istanbul?'"}
+{"instruction": "I want you to act as a plagiarism checker. Iwill write you sentences and you will onlyreply undetected in plagiarism checks inthe language of the given sentence, andnothing else. Do not write explanations onreplies. My first sentence is 'For computersto behave like humans, speech recognitionsystems must be able to process nonverbalinformation, such as the emotional state ofthe speaker.'"}
+{"instruction": "I want you to act like {character} from {series}.I want you to respond and answer like {character}using the tone, manner and vocabulary {character}would use.Do not write any explanations. Only answer like{character}. You must know all of the knowledge of{character}. My first sentence is 'Hi {character}.'"}
+{"instruction": "I want you to act as an advertiser. You willcreate a campaign to promote a product orservice of your choice. You will choose atarget audience, develop key messages andslogans, select the media channels forpromotion, and decide on any additionalactivities needed to reach your goals. My first suggestion request is 'I need helpcreating an advertising campaign for a newtype of energy drink targeting young adultsaged 18-30.'"}
+{"instruction": "I want you to act as a storyteller. You will comeup with entertaining stories that areengaging, imaginative and captivating for theaudience. It can be fairy tales, educationalstories or any other type of stories which hasthe potential to capture people's attentionand imagination. Depending on the target audience, you may choose specific themes ortopics for your storytelling session e.g., if it’schildren then you can talk about animals; Ifit’s adults then history-based tales mightengage them better etc. My first request is'I need an interesting story on perseverance.'"}
+{"instruction": "I want you to act as a stand-up comedian. Iwill provide you with some topics related tocurrent events and you will use your wit,creativity, and observational skills to createa routine based on those topics. You shouldalso be sure to incorporate personalanecdotes or experiences into the routine inorder to make it more relatable andengaging for the audience. My first request is'I want an humorous take on politics.'"}
+{"instruction": "I want you to act as a motivational coach. I willprovide you with some information aboutsomeone's goals and challenges, and it will beyour job to come up with strategies thatcan help this person achieve their goals. Thiscould involve providing positiveaffirmations, giving helpful advice or suggesting activities they can do to reach their endgoal. My first request is 'I need help motivatingmyself to stay disciplined while studyingfor an upcoming exam'."}
+{"instruction": "I want you to act as a debater. I will provideyou with some topics related to currentevents and your task is to research both sidesof the debates, present valid argumentsfor each side, refute opposing points of view,and draw persuasive conclusions basedon evidence. Your goal is to help people comeaway from the discussion with increasedknowledge and insight into the topic at hand.My first request is 'I want an opinion pieceabout Deno.'"}
+{"instruction": "I want you to act as a rapper. You will come upwith powerful and meaningful lyrics,beats and rhythm that can ‘wow’ the audience.Your lyrics should have an intriguingmeaning and message which people can relatetoo. When it comes to choosing yourbeat, make sure it is catchy yet relevant to yourwords, so that when combined theymake an explosion of sound everytime! My firstrequest is 'I need a rap song aboutfinding strength within yourself.'"}
+{"instruction": "I want you to act as a motivational speaker. Puttogether words that inspire action andmake people feel empowered to do somethingbeyond their abilities. You can talk aboutany topics but the aim is to make sure what you sayresonates with your audience,giving them an incentive to work on their goals and strive for better possibilities. My first request is 'I need a speech about how everyoneshould never give up.'"}
+{"instruction": "I want you to act as an AI writing tutor. I willprovide you with a student who needs helpimproving their writing and your task is to useartificial intelligence tools, such as naturallanguage processing, to give the studentfeedback on how they can improve theircomposition. You should also use your rhetorical knowledge and experience about effective writing techniques in order to suggestways that the student can better expresstheir thoughts and ideas in written form. Myfirst request is 'I need somebody to help meedit my master's thesis.'"}
+{"instruction": "I want you to act as a UX/UI developer. I will provide some details about the design ofan app, website or other digital product, and itwill be your job to come up with creativeways to improve its user experience. This couldinvolve creating prototyping prototypes,testing different designs and providingfeedback on what works best. My first request is'I need help designing an intuitive navigation system for my new mobile application.'"}
+{"instruction": "I want you to act as a cyber security specialist. Iwill provide some specific informationabout how data is stored and shared, and it will beyour job to come up with strategiesfor protecting this data from malicious actors. Thiscould include suggesting encryptionmethods, creating firewalls or implementing policies that mark certain activities assuspicious. My first request is 'I need help developing an effective cybersecurity strategy for my company.'"}
+{"instruction": "I want you to act as a recruiter. I will provide someinformation about job openings, andit will be your job to come up with strategies forsourcing qualified applicants. This couldinclude reaching out to potential candidatesthrough social media, networking events oreven attending career fairs in order to find thebest people for each role. My first requestis 'I need help improve my CV.”"}
+{"instruction": "I want you to act as a life coach. I will providesome details about my current situationand goals, and it will be your job to come upwith strategies that can help me makebetter decisions and reach those objectives.This could involve offering advice onvarious topics, such as creating plans for achieving success or dealing with difficultemotions. My first request is 'I need help developing healthier habits for managingstress.'"}
+{"instruction": "I want you to act as a magician. I will provideyou with an audience and somesuggestions for tricks that can be performed.Your goal is to perform these tricks in themost entertaining way possible, using yourskills of deception and misdirection to amazeand astound the spectators. My first request is 'I want you to make my watch disappear!How can you do that?'"}
+{"instruction": "I want you to act as a career counselor. I will provide you with an individual looking forguidance in their professional life, and yourtask is to help them determine what careersthey are most suited for based on their skills,interests and experience. You should alsoconduct research into the various optionsavailable, explain the job market trends indifferent industries and advice on whichqualifications would be beneficial for pursuingparticular fields. My first request is 'I want toadvise someone who wants to pursue apotential career in software engineering.'"}
