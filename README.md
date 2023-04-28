@@ -71,7 +71,7 @@ This dataset is collected and cleaned by the following authors:
 - [Fuzhao Xue](https://xuefuzhao.github.io/)
 - [Zangwei Zheng](https://zhengzangw.github.io/)
 - [Kabir Jain](https://github.com/ka-bear)
-- [Mahir Hitesh Shan](https://github.com/ka-bear)
+- [Mahir Hitesh Shah](https://github.com/RottenLemons)
 
 All authors are advised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/).
 
@@ -83,7 +83,7 @@ Please cite the repo if you use the data or code in this repo.
 
 ```bibtex
 @misc{instructionwild,
-  author = {Fuzhao Xue, Kabir Jain, Mahir Hitesh Shan, Zangwei Zheng and Yang You },
+  author = {Fuzhao Xue, Kabir Jain, Mahir Hitesh Shah, Zangwei Zheng and Yang You },
   title = {Instruction in the Wild: A User-based Instruction Dataset},
   year = {2023},
   publisher = {GitHub},
