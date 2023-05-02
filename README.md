@@ -40,7 +40,7 @@ It is difficult to evaluate Chatbot. We human-evaluate several examples under di
 
 - Both Alpaca and ColossalChat are based on LLaMA. It is hard to compensate for the missing knowledge in the pre-training stage.
 - Lack of counting ability: Cannot count the number of items in a list.
-- Lack of Logics (reasoning and calculation)
+- Lack of Logics (reasoning and calculation).
 - Tend to repeat the last sentence (fail to produce the end token).
 - Poor multilingual results: LLaMA is mainly trained on English datasets (Generation performs better than QA).
 
