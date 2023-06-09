@@ -9,4 +9,4 @@ We release a large set of user-based high quality instructions as our InstructWi
 
 We also release the code to filter the Discord instructions. We finetuned DistillBERT to extract instructions from the raw discord conversations.
 
-Thanks Kabear and Mahir for the great contributions!
+Thanks Kabir and Mahir for the great contributions!
