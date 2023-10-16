@@ -66,7 +66,7 @@ See [**HERE**](./comparison.md) for detailed comparison.
 
 ## Authors
 
-This project is conducted by the following authors (currently):
+This project is maintained by the following authors (currently):
 
 - [Jinjie Ni](http://jinjie.one/)
 - [Fuzhao Xue](https://xuefuzhao.github.io/)
