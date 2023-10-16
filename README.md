@@ -68,6 +68,7 @@ See [**HERE**](./comparison.md) for detailed comparison.
 
 This dataset is collected and cleaned by the following authors:
 
+- [Jinjie Ni](http://jinjie.one/)
 - [Fuzhao Xue](https://xuefuzhao.github.io/)
 - [Zangwei Zheng](https://zhengzangw.github.io/)
 - [Kabir Jain](https://github.com/ka-bear)
@@ -83,7 +84,7 @@ Please cite the repo if you use the data or code in this repo.
 
 ```bibtex
 @misc{instructionwild,
-  author = {Fuzhao Xue and Kabir Jain and Mahir Hitesh Shah and Zangwei Zheng and Yang You },
+  author = {Jinjie Ni and Fuzhao Xue and Kabir Jain and Mahir Hitesh Shah and Zangwei Zheng and Yang You },
   title = {Instruction in the Wild: A User-based Instruction Dataset},
   year = {2023},
   publisher = {GitHub},
