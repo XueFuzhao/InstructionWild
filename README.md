@@ -60,9 +60,9 @@ See [**HERE**](./comparison.md) for detailed comparison.
 ## TODO
 
 - [x] Dataset v1
-- [ ] Data Generation Code
-- [x] Fine-grained Labeling
-- [x] Larger Dataset (Dataset v2)
+- [x] Dataset v2
+- [x] Fine-grained Labeling (v2)
+- [ ] Larger Dataset
 
 ## Authors
 
