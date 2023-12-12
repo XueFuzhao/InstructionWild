@@ -75,7 +75,7 @@ This project is maintained by the following authors (currently):
 - [Kabir Jain](https://github.com/ka-bear)
 - [Mahir Hitesh Shah](https://github.com/RottenLemons)
 - [Zangwei Zheng](https://zhengzangw.github.io/)
-- [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/).
+- [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/)
 
 We also acknowledge the valuable suggestions from [Prof. Aixin Sun](https://personal.ntu.edu.sg/axsun/), [Dr. Tom Young](https://tomyoung903.github.io/).
 
