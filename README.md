@@ -1,6 +1,6 @@
 # Instruction in the Wild: A User-based Instruction Dataset
 
-We are currently working on a version that largely transforms this project. We will update this repo as soon as we complete this version.
+⚠️ We are currently working on a version that largely transforms this project. We will update this repo as soon as we complete this version.
 
 ## News
 
