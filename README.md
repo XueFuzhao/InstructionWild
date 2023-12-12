@@ -70,11 +70,12 @@ This project is maintained by the following authors (currently):
 
 - [Jinjie Ni](http://jinjie.one/)
 - [Fuzhao Xue](https://xuefuzhao.github.io/)
-- [Zangwei Zheng](https://zhengzangw.github.io/)
+- [Yuntian Deng](https://yuntiandeng.com/)
+- [Jason Phang](https://jasonphang.com/)
 - [Kabir Jain](https://github.com/ka-bear)
 - [Mahir Hitesh Shah](https://github.com/RottenLemons)
-
-All authors are advised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/).
+- [Zangwei Zheng](https://zhengzangw.github.io/)
+- [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/).
 
 We also acknowledge the valuable suggestions from [Prof. Aixin Sun](https://personal.ntu.edu.sg/axsun/), [Dr. Tom Young](https://tomyoung903.github.io/).
 
@@ -84,7 +85,7 @@ Please cite the repo if you use the data or code in this repo.
 
 ```bibtex
 @misc{instructionwild,
-  author = {Jinjie Ni and Fuzhao Xue and Kabir Jain and Mahir Hitesh Shah and Zangwei Zheng and Yang You },
+  author = {Jinjie Ni and Fuzhao Xue and Yuntian Deng and Jason Phang and Kabir Jain and Mahir Hitesh Shah and Zangwei Zheng and Yang You },
   title = {Instruction in the Wild: A User-based Instruction Dataset},
   year = {2023},
   publisher = {GitHub},
