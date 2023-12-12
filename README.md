@@ -1,5 +1,7 @@
 # Instruction in the Wild: A User-based Instruction Dataset
 
+We are currently working on a version that largely transforms this project. We will update this repo as soon as we complete this version.
+
 ## News
 
 We release InstructWild v2 under `data v2` dir, which includes over 110K high-quailty user-based instructions. We did not use self-instruct to generate any instructions. We also label a subset of these instructions with instruction type and speical tag. Please see [README](https://github.com/XueFuzhao/InstructionWild/blob/main/data_v2/README.md) for details.
