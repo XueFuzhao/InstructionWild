@@ -1,7 +1,5 @@
 # Instruction in the Wild: A User-based Instruction Dataset
 
-⚠️ We are currently working on a version that largely transforms this project. We will update this repo as soon as we complete this version.
-
 ## News
 
 We release InstructWild v2 under `data v2` dir, which includes over 110K high-quailty user-based instructions. We did not use self-instruct to generate any instructions. We also label a subset of these instructions with instruction type and speical tag. Please see [README](https://github.com/XueFuzhao/InstructionWild/blob/main/data_v2/README.md) for details.
@@ -72,8 +70,6 @@ This project is maintained by the following authors (currently):
 
 - [Jinjie Ni](http://jinjie.one/)
 - [Fuzhao Xue](https://xuefuzhao.github.io/)
-- [Yuntian Deng](https://yuntiandeng.com/)
-- [Jason Phang](https://jasonphang.com/)
 - [Kabir Jain](https://github.com/ka-bear)
 - [Mahir Hitesh Shah](https://github.com/RottenLemons)
 - [Zangwei Zheng](https://zhengzangw.github.io/)
@@ -87,7 +83,7 @@ Please cite the repo if you use the data or code in this repo.
 
 ```bibtex
 @misc{instructionwild,
-  author = {Jinjie Ni and Fuzhao Xue and Yuntian Deng and Jason Phang and Kabir Jain and Mahir Hitesh Shah and Zangwei Zheng and Yang You },
+  author = {Jinjie Ni and Fuzhao Xue and Kabir Jain and Mahir Hitesh Shah and Zangwei Zheng and Yang You },
   title = {Instruction in the Wild: A User-based Instruction Dataset},
   year = {2023},
   publisher = {GitHub},
